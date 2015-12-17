@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{99A8C321-11D8-40E1-8356-41F4E0C6DAA1}</ProjectGuid>
+    <ProjectGuid>{9BF18AE4-CFD1-4734-AE5D-17F7B5C3CC70}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>labor03_feladat01</RootNamespace>
+    <RootNamespace>labor03_feladat06</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -153,7 +153,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="labor03_feladat01.c" />
+    <ClCompile Include="main.c" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
